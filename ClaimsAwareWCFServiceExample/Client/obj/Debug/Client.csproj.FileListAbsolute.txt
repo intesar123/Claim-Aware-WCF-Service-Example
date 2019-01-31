@@ -1,0 +1,7 @@
+F:\dotNet\Projects\ClaimsAwareWCFServiceExample\Client\bin\Debug\Client.exe.config
+F:\dotNet\Projects\ClaimsAwareWCFServiceExample\Client\bin\Debug\Client.exe
+F:\dotNet\Projects\ClaimsAwareWCFServiceExample\Client\bin\Debug\Client.pdb
+F:\dotNet\Projects\ClaimsAwareWCFServiceExample\Client\obj\Debug\Client.csprojAssemblyReference.cache
+F:\dotNet\Projects\ClaimsAwareWCFServiceExample\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+F:\dotNet\Projects\ClaimsAwareWCFServiceExample\Client\obj\Debug\Client.exe
+F:\dotNet\Projects\ClaimsAwareWCFServiceExample\Client\obj\Debug\Client.pdb

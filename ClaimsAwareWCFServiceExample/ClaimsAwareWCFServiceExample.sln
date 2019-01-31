@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClaimsAwareWCFServiceExample", "ClaimsAwareWCFServiceExample\ClaimsAwareWCFServiceExample.csproj", "{EB22DCAE-7890-4DA7-A8D6-F023C9441B46}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csproj", "{EFE79166-F297-405D-A9F0-25867CD5C87B}"
+	ProjectSection(ProjectDependencies) = postProject
+		{EB22DCAE-7890-4DA7-A8D6-F023C9441B46} = {EB22DCAE-7890-4DA7-A8D6-F023C9441B46}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB22DCAE-7890-4DA7-A8D6-F023C9441B46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB22DCAE-7890-4DA7-A8D6-F023C9441B46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB22DCAE-7890-4DA7-A8D6-F023C9441B46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB22DCAE-7890-4DA7-A8D6-F023C9441B46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFE79166-F297-405D-A9F0-25867CD5C87B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFE79166-F297-405D-A9F0-25867CD5C87B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFE79166-F297-405D-A9F0-25867CD5C87B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFE79166-F297-405D-A9F0-25867CD5C87B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88205751-B062-4E04-A1BC-EF22E7DC5938}
+	EndGlobalSection
+EndGlobal
